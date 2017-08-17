@@ -1,9 +1,14 @@
-**Do you want to request a *feature* or report a *bug*?**
+<!--
+Feature Requests:
+  Please read https://github.com/globoi/playkit/blob/master/CONTRIBUTING.md#contributing-guidelines
 
-**What is the current behavior?**
+Bug Reports:
+  Note that we only can fix bugs in the latests versions of Playkit Packages.
+  Briefly describe the issue you've encountered
+  *  What do you expect to happen?
+  *  What actually happens?
+  *  Which browsers are affected?
+-->
 
-**If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem via https://jsfiddle.net or similar (template: https://jsfiddle.net/84v837e9/).**
+### Description ###
 
-**What is the expected behavior?**
-
-**Which versions of React, and which browser / OS are affected by this issue? Did this work in previous versions of React?**
